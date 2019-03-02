@@ -1,0 +1,34 @@
+@charset "UTF-8";
+.sample {
+  display: grid;
+}
+
+.sample02 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.sample03 {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.sample04 {
+  width: 1500px;
+  margin: 0 auto;
+}
+
+.sample0５ {
+  width: 1900px;
+  margin: 0 auto;
+}
+
+.sample07 {
+  width: 1900px;
+  margin: 0 auto;
+}
+
+.sample06 {
+  width: 1900px;
+  margin: 0 auto;
+}
